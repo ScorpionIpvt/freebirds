@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.freebirds" name="Freebirds Repository" version="1.0.0" provider-name="Playonmonkey">
+	<extension point="xbmc.addon.repository" name="freebirds">
+		<info compressed="false">https://raw.githubusercontent.com/ScorpionIpvt/freebirds/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/ScorpionIpvt/freebirds/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/ScorpionIpvt/freebirds/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Freebirds Repository</summary>
+		<description>Freebirds collection of Add ons</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
